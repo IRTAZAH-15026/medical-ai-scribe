@@ -1,0 +1,6 @@
+   @echo off
+   echo Starting Privacy-First AI Medical Scribe...
+   echo Please wait, loading local AI models...
+   call venv\Scripts\activate
+   streamlit run app.py
+   pause

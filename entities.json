@@ -1,0 +1,14 @@
+{
+  "symptoms": [
+    "Vomiting",
+    "Nausea",
+    "Fever",
+    "Headache"
+  ],
+  "duration": [
+    "Three days"
+  ],
+  "measurements": [
+    "Fever: 101"
+  ]
+}
